@@ -12,3 +12,5 @@
 
 > Kartik
 (0.98) M
+
+- Reference: https://github.com/spro/practical-pytorch/tree/master
